@@ -39,9 +39,10 @@
                    class="mt-1 block w-full rounded border-gray-300 shadow-sm">
         </div>
 
+
         <div class="mt-6">
             <button type="submit"
-                    class="bg-green-600 text-white px-4 py-2 rounded hover:bg-green-700">
+                    class="bg-green-600 text-black px-4 py-2 rounded hover:bg-green-700">
                 Actualizar
             </button>
 

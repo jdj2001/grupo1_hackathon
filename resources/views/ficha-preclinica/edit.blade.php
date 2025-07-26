@@ -30,7 +30,7 @@
 
         <div class="mt-6">
             <button type="submit"
-                    class="bg-green-600 text-white px-4 py-2 rounded hover:bg-green-700">
+                    class="bg-green-600 text-black px-4 py-2 rounded hover:bg-green-700">
                 Actualizar
             </button>
 

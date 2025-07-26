@@ -21,7 +21,7 @@
             <input type="url" name="enlace" id="enlace" class="form-input w-full rounded border-gray-300" required>
         </div>
 
-        <button type="submit" class="bg-green-600 text-white px-4 py-2 rounded hover:bg-green-700">Guardar</button>
+        <button type="submit" class="bg-green-600 text-black px-4 py-2 rounded hover:bg-green-700">Guardar</button>
     </form>
 </div>
 @endsection

@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="max-w-2xl mx-auto mt-10 bg-white p-6 rounded shadow">
+<div class="max-w-2xl mx-auto mt-10 bg-black p-6 rounded shadow">
     <h1 class="text-2xl font-bold mb-4">Nueva Ficha Preclínica</h1>
 
     <form method="POST" action="{{ route('ficha-preclinicas.store') }}">
@@ -34,7 +34,7 @@
 
         <div class="flex justify-end gap-2">
             <a href="{{ route('ficha-preclinicas.index') }}" class="bg-gray-300 px-4 py-2 rounded">Cancelar</a>
-            <button type="submit" class="bg-blue-600 text-white px-4 py-2 rounded">Guardar</button>
+            <button type="submit" class="bg-blue-600 text-black px-4 py-2 rounded">Guardar</button>
         </div>
     </form>
 </div>
